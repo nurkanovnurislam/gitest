@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dfeb14c4-984d-4e91-a526-97e8da62739d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="dfeb14c4-984d-4e91-a526-97e8da62739d" name="Changes" comment="2test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,8 +41,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666605399627</updated>
-      <workItem from="1666605400865" duration="574000" />
+      <workItem from="1666605400865" duration="880000" />
     </task>
+    <task id="LOCAL-00001" summary="2test">
+      <created>1666606276270</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666606276270</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -60,5 +66,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2test" />
+    <option name="LAST_COMMIT_MESSAGE" value="2test" />
   </component>
 </project>
